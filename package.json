@@ -1,0 +1,27 @@
+{
+  "name": "cash-in-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js input.json",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dijimon/cash-in-out.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dijimon/cash-in-out/issues"
+  },
+  "homepage": "https://github.com/dijimon/cash-in-out#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
